@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Using Linux to Automate User Management and Access Controls](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Using Linux to Automate User Management and Access Controls](https://github.com/SomoneL/LinuxUserManagement/tree/main))</b>
   - [](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>[Windows Server 2019 Deployment: User Account & Group Policy Management](https://github.com/joshmadakor1/Sentinel-Lab)</b>
   - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
