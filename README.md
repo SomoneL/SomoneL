@@ -4,7 +4,7 @@
 
 - <b>[Using Linux to Automate User Management and Access Controls](https://github.com/SomoneL/LinuxUserManagement/tree/main)</b>
   - [](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>[Windows Server 2019 Deployment: User Account & Group Policy Management](https://github.com/joshmadakor1/Sentinel-Lab)</b>
+- <b>[Windows Server 2019 Deployment: User Account & Group Policy Management](https://github.com/SomoneL/Windows-Server-2019-Deployment)</b>
   - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>[Cybersecurity Virtual Lab: Integrating Linux & Windows Systems with Advanced Monitoring Tools](https://github.com/joshmadakor1/Sentinel-Lab)</b>
   - [](https://github.com/joshmadakor1/Sentinel-Lab)
