@@ -10,8 +10,8 @@
   - []
 - <b>[Azure VM Network Traffic Analysis with Wireshark](https://github.com/joshmadakor1/EncrypterPOC)</b>
   - [](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/joshmadakor1/EncrypterPOC)</b>
-  - [](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/SomoneL/SOC-Honeynet-in-Azure/tree/main)</b>
+  - []()
 - <b>[Setting Up Virtual Machines Using Virtual Box](https://github.com/joshmadakor1/EncrypterPOC)</b>
   - [](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
