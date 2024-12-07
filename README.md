@@ -12,8 +12,8 @@
   - [](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/SomoneL/SOC-Honeynet-in-Azure/tree/main)</b>
   - []()
-- <b>[Setting Up Virtual Machines Using Virtual Box](https://github.com/joshmadakor1/EncrypterPOC)</b>
-  - [](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>[Setting Up Virtual Machines Using Virtual Box](https://github.com/SomoneL/Setting-Up-Virtual-Machines-Using-VirtualBox)</b>
+  - []()
 
 <h2>📝	 Certifications</h2>
 
