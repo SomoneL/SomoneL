@@ -1,4 +1,5 @@
-<h1>Hi, I'm Somone! <br/></h1>
+<h1>Hi, I'm Somone, a <a href="https://www.linkedin.com/in/somone-letman/">Cybersecurity and IT Professional </a>☺</h1>
+
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
