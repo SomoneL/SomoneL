@@ -6,8 +6,6 @@
 - <b>[Using Linux to Automate User Management and Access Controls](https://github.com/SomoneL/LinuxUserManagement/tree/main)</b>
 
 - <b>[Windows Server 2019 Deployment: User Account & Group Policy Management](https://github.com/SomoneL/Windows-Server-2019-Deployment)</b>
-
-- <b>[Cybersecurity Virtual Lab: Integrating Linux & Windows Systems with Advanced Monitoring Tools](https://github.com/SomoneL/Cybersecurity-Lab)</b>
   
 - <b>[Azure VM Network Traffic Analysis with Wireshark](https://github.com/SomoneL/Azure-WireShark-Traffic-Analysis)</b>
   
